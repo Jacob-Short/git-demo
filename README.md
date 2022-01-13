@@ -3,12 +3,12 @@
 This is the first file in this repo
 
 
-## Steps
+# Steps
 
-# Course Introduction / Overview
-# Setup && Config
-# Working Locally
-# Going Remote
-# Updates && Errata
-# Conclusion
+## Course Introduction / Overview
+## Setup && Config
+## Working Locally
+## Going Remote
+## Updates && Errata
+## Conclusion
 
