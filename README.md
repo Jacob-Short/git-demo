@@ -5,6 +5,8 @@ This is the first file in this repo
 
 ## website contents
 
-# file 1
+Here are the files in the website
+
+# index.html
 # file 2
 
