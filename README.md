@@ -3,10 +3,12 @@
 This is the first file in this repo
 
 
-## website contents
+## Steps
 
-Here are the files in the website
-
-# index.html
-# file 2
+# Course Introduction / Overview
+# Setup && Config
+# Working Locally
+# Going Remote
+# Updates && Errata
+# Conclusion
 
